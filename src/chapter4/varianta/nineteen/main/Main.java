@@ -1,4 +1,4 @@
-package chapter4.varianta.one.main;
+package chapter4.varianta.nineteen.main;
 
 import chapter4.varianta.nineteen.action.InputData;
 import chapter4.varianta.nineteen.action.PhotoAction;
